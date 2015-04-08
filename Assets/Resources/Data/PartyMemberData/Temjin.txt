@@ -1,0 +1,9 @@
+name Temjin
+icon Btem_A
+lv 3
+nextExp 130
+hp 30
+mp 10
+atk 10
+def 8
+spd 4

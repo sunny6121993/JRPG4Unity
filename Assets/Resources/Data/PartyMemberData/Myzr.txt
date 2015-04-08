@@ -1,0 +1,9 @@
+name Myzr
+icon Bmyzr_G
+lv 2
+nextExp 10
+hp 15
+mp 10
+atk 5
+def 3
+spd 7

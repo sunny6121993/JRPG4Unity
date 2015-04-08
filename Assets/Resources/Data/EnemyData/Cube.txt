@@ -1,0 +1,8 @@
+name Cube
+hp 40
+mp 10
+atk 7
+def 4
+spd 4
+exp 50
+money 600

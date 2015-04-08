@@ -1,0 +1,9 @@
+name Guarayakha
+icon guara_m
+lv 1
+nextExp 50
+hp 15
+mp 20
+atk 7
+def 5
+spd 4

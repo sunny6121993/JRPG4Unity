@@ -1,0 +1,9 @@
+name Raiden
+icon Brai_E2
+lv 4
+nextExp 170
+hp 60
+mp 10
+atk 25
+def 16
+spd 2
